@@ -1,0 +1,7 @@
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\bin\Debug\egyszamjatek0409.exe.config
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\bin\Debug\egyszamjatek0409.exe
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\bin\Debug\egyszamjatek0409.pdb
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\obj\Debug\egyszamjatek0409.csprojAssemblyReference.cache
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\obj\Debug\egyszamjatek0409.csproj.CoreCompileInputs.cache
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\obj\Debug\egyszamjatek0409.exe
+c:\users\hviktor\source\repos\egyszamjatek0409\egyszamjatek0409\obj\Debug\egyszamjatek0409.pdb
